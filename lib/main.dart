@@ -46,7 +46,7 @@ class _MyHomeState extends State<MyHome> {
                       Container(
                         child: Icon(
                           Icons.adjust,
-                          size: 150,
+                          size: 100,
                         ),
                         width: 310,
                         height: 210,
